@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Martin</h1>
-<h3 align="center">Student at SPSMB in Czech Republic</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+- 🔭 I’m currently working on **math homework**
 
 - 🌱 I’m currently learning **how to code**
 
-- 📫 How to reach me **hercikmartin7@gmail.com**
+- ⚡ Fun fact: **It's illegal to own just one guinea pig in Switzerland**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
